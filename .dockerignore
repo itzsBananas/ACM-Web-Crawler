@@ -1,0 +1,7 @@
+Dockerfile
+venv/
+__pycache__/
+test-output/
+*.json
+*.csv
+build-and-deploy.sh

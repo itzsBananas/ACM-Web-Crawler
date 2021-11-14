@@ -1,0 +1,6 @@
+validators==0.18.2
+requests==2.26.0
+SQLAlchemy==1.4.27
+python-dotenv==0.19.2
+Flask==2.0.2
+gunicorn==20.1.0
